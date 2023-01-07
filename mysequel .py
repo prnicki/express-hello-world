@@ -252,4 +252,3 @@ def paid_fees():
     except:
         print("nothing");
 
-paid_fees();
